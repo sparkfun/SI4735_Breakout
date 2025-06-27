@@ -1,7 +1,7 @@
 SI4735 Breakout
 ===============
 
-[![SI4735 AM/FM Radio Receiver Breakout](https://dlnmh9ip6v2uc.cloudfront.net/images/products/1/0/9/0/6/10906-01_i_ma.jpg) 
+[![SI4735 AM/FM Radio Receiver Breakout](https://cdn.sparkfun.com/assets/parts/6/0/1/7/10906-01.jpg) 
 *SI4735 AM/FM Radio Receiver Breakout (WRL-10906)*](https://www.sparkfun.com/products/retired/10906)
 
 This breakout board allows easy use of the SI4735 AM/FM Receiver IC, which incorporates complete tuner function from antenna input to audio output. 
